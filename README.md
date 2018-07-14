@@ -8,6 +8,7 @@ We know that `git init` initialises a git repository in the current folder. Howe
 * Add the remote
 * Create .gitignore
 * And many more...
+
 I do this thing almost 10 times a day and I wanted to automate this task.
 P.S I'm a lazy person too.
 
